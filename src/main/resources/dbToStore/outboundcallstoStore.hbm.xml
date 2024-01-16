@@ -1,0 +1,42 @@
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="org.cognicxcontactcenter.entities.server">
+
+    <class name="OutBoundCalls" table="OutboundCalls">
+        <id name="slno" >
+            <column name="SLNO" />
+            <generator class="identity" />
+        </id>
+        <property name="tenantID" column="TenantID"/>
+        <property name="custID" column = "CustID" />
+        <property name="sequenceID" column="sequenceID" />
+        <property name="contactType" column="ContactType" />
+        <property name="contactTypeName" column="ContactTypeName" />
+        <property name="contactSubType" column="ContactSubType" />
+        <property name="siteID" column="SiteID" />
+        <property name="siteName" column="SiteName" />
+        <property name="skillsetID" column="SkillsetID" />
+        <property name="skillsetName" column="SkillsetName" />
+        <property name="agentSurName" column="AgentSurName" />
+        <property name="agentGivenName" column="AgentGivenName" />
+        <property name="supervisorSurName" column="SupervisorSurName" />
+        <property name="supervisorGivenName" column="SupervisorGivenName" />
+        <property name="agentID" column="AgentID" />
+        <property name="supervisorID" column="SupervisorID" />
+        <property name="originatedStamp" column="OriginatedStamp" />
+        <property name="initialDisposition" column="InitialDisposition" />
+        <property name="handlingTime" column="HandlingTime" />
+        <property name="consultTime" column="ConsultTime" />
+        <property name="holdTime" column="HoldTime" />
+        <property name="waitTime" column="WaitTime" />
+        <property name="numberOfTimesOnHold" column="NumberOfTimesOnHold" />
+        <property name="qaScore" column="QAScore" />
+
+
+<!--        Another Table-->
+
+<!--        <join table="outboundcall">-->
+<!--            <key column="AgentID"></key>-->
+<!--        </join>-->
+    </class>
+
+</hibernate-mapping>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: org.springframework:spring-aspects:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-aspects/6.0.9/spring-aspects-6.0.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-orm:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-orm/6.0.9/spring-orm-6.0.9.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.20.0">
+    <archive path="C:/Users/nares/.m2/repository/org/apache/logging/log4j/log4j-to-slf4j/2.20.0/log4j-to-slf4j-2.20.0.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-actuator:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-starter-actuator/3.1.0/spring-boot-starter-actuator-3.1.0.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-core:1.4.7">
+    <archive path="C:/Users/nares/.m2/repository/ch/qos/logback/logback-core/1.4.7/logback-core-1.4.7.jar" />
+  </library>
+  <library name="Maven: io.micrometer:micrometer-commons:1.11.0">
+    <archive path="C:/Users/nares/.m2/repository/io/micrometer/micrometer-commons/1.11.0/micrometer-commons-1.11.0.jar" />
+  </library>
+  <library name="Maven: io.smallrye:jandex:3.0.5">
+    <archive path="C:/Users/nares/.m2/repository/io/smallrye/jandex/3.0.5/jandex-3.0.5.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jcl:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-jcl/6.0.9/spring-jcl-6.0.9.jar" />
+  </library>
+  <library name="Maven: jakarta.persistence:jakarta.persistence-api:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-context/6.0.9/spring-context-6.0.9.jar" />
+  </library>
+  <library name="Maven: jakarta.inject:jakarta.inject-api:2.0.1">
+    <archive path="C:/Users/nares/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.9.3">
+    <archive path="C:/Users/nares/.m2/repository/org/junit/platform/junit-platform-engine/1.9.3/junit-platform-engine-1.9.3.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:jaxb-core:4.0.2">
+    <archive path="C:/Users/nares/.m2/repository/org/glassfish/jaxb/jaxb-core/4.0.2/jaxb-core-4.0.2.jar" />
+  </library>
+  <library name="Maven: org.mockito:mockito-junit-jupiter:5.3.1">
+    <archive path="C:/Users/nares/.m2/repository/org/mockito/mockito-junit-jupiter/5.3.1/mockito-junit-jupiter-5.3.1.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest:2.2">
+    <archive path="C:/Users/nares/.m2/repository/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.9.3">
+    <archive path="C:/Users/nares/.m2/repository/org/junit/platform/junit-platform-commons/1.9.3/junit-platform-commons-1.9.3.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aop:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-aop/6.0.9/spring-aop-6.0.9.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-test-autoconfigure:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-test-autoconfigure/3.1.0/spring-boot-test-autoconfigure-3.1.0.jar" />
+  </library>
+  <library name="Maven: net.minidev:json-smart:2.4.10">
+    <archive path="C:/Users/nares/.m2/repository/net/minidev/json-smart/2.4.10/json-smart-2.4.10.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-el:10.1.8">
+    <archive path="C:/Users/nares/.m2/repository/org/apache/tomcat/embed/tomcat-embed-el/10.1.8/tomcat-embed-el-10.1.8.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.15.0">
+    <archive path="C:/Users/nares/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.15.0/jackson-databind-2.15.0.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-expression:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-expression/6.0.9/spring-expression-6.0.9.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-jdbc:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-jdbc/6.0.9/spring-jdbc-6.0.9.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.15.0">
+    <archive path="C:/Users/nares/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.15.0/jackson-datatype-jsr310-2.15.0.jar" />
+  </library>
+  <library name="Maven: io.micrometer:micrometer-core:1.11.0">
+    <archive path="C:/Users/nares/.m2/repository/io/micrometer/micrometer-core/1.11.0/micrometer-core-1.11.0.jar" />
+  </library>
+  <library name="Maven: com.zaxxer:HikariCP:5.0.1">
+    <archive path="C:/Users/nares/.m2/repository/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-tx:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-tx/6.0.9/spring-tx-6.0.9.jar" />
+  </library>
+  <library name="Maven: org.apache.logging.log4j:log4j-api:2.20.0">
+    <archive path="C:/Users/nares/.m2/repository/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-actuator-autoconfigure:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-actuator-autoconfigure/3.1.0/spring-boot-actuator-autoconfigure-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-web:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-starter-web/3.1.0/spring-boot-starter-web-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.skyscreamer:jsonassert:1.5.1">
+    <archive path="C:/Users/nares/.m2/repository/org/skyscreamer/jsonassert/1.5.1/jsonassert-1.5.1.jar" />
+  </library>
+  <library name="Maven: com.fasterxml:classmate:1.5.1">
+    <archive path="C:/Users/nares/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-test:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-test/6.0.9/spring-test-6.0.9.jar" />
+  </library>
+  <library name="Maven: jakarta.transaction:jakarta.transaction-api:2.0.1">
+    <archive path="C:/Users/nares/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+    <archive path="C:/Users/nares/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar" />
+  </library>
+  <library name="Maven: org.antlr:antlr4-runtime:4.10.1">
+    <archive path="C:/Users/nares/.m2/repository/org/antlr/antlr4-runtime/4.10.1/antlr4-runtime-4.10.1.jar" />
+  </library>
+  <library name="Maven: org.mockito:mockito-core:5.3.1">
+    <archive path="C:/Users/nares/.m2/repository/org/mockito/mockito-core/5.3.1/mockito-core-5.3.1.jar" />
+  </library>
+  <library name="Maven: org.eclipse.angus:angus-activation:2.0.0">
+    <archive path="C:/Users/nares/.m2/repository/org/eclipse/angus/angus-activation/2.0.0/angus-activation-2.0.0.jar" />
+  </library>
+  <library name="Maven: net.minidev:accessors-smart:2.4.9">
+    <archive path="C:/Users/nares/.m2/repository/net/minidev/accessors-smart/2.4.9/accessors-smart-2.4.9.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter:5.9.3">
+    <archive path="C:/Users/nares/.m2/repository/org/junit/jupiter/junit-jupiter/5.9.3/junit-jupiter-5.9.3.jar" />
+  </library>
+  <library name="Maven: org.aspectj:aspectjweaver:1.9.19">
+    <archive path="C:/Users/nares/.m2/repository/org/aspectj/aspectjweaver/1.9.19/aspectjweaver-1.9.19.jar" />
+  </library>
+  <library name="Maven: com.jayway.jsonpath:json-path:2.8.0">
+    <archive path="C:/Users/nares/.m2/repository/com/jayway/jsonpath/json-path/2.8.0/json-path-2.8.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.15.0">
+    <archive path="C:/Users/nares/.m2/repository/com/fasterxml/jackson/module/jackson-module-parameter-names/2.15.0/jackson-module-parameter-names-2.15.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.15.0">
+    <archive path="C:/Users/nares/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.15.0/jackson-annotations-2.15.0.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:10.1.8">
+    <archive path="C:/Users/nares/.m2/repository/org/apache/tomcat/embed/tomcat-embed-websocket/10.1.8/tomcat-embed-websocket-10.1.8.jar" />
+  </library>
+  <library name="Maven: org.slf4j:jul-to-slf4j:2.0.7">
+    <archive path="C:/Users/nares/.m2/repository/org/slf4j/jul-to-slf4j/2.0.7/jul-to-slf4j-2.0.7.jar" />
+  </library>
+  <library name="Maven: org.hdrhistogram:HdrHistogram:2.1.12">
+    <archive path="C:/Users/nares/.m2/repository/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-beans:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-beans/6.0.9/spring-beans-6.0.9.jar" />
+  </library>
+  <library name="Maven: org.springframework.data:spring-data-jpa:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/data/spring-data-jpa/3.1.0/spring-data-jpa-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-autoconfigure:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/3.1.0/spring-boot-autoconfigure-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-starter/3.1.0/spring-boot-starter-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-actuator:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-actuator/3.1.0/spring-boot-actuator-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:2.0.7">
+    <archive path="C:/Users/nares/.m2/repository/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar" />
+  </library>
+  <library name="Maven: com.vaadin.external.google:android-json:0.0.20131108.vaadin1">
+    <archive path="C:/Users/nares/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar" />
+  </library>
+  <library name="Maven: org.jboss.logging:jboss-logging:3.5.0.Final">
+    <archive path="C:/Users/nares/.m2/repository/org/jboss/logging/jboss-logging/3.5.0.Final/jboss-logging-3.5.0.Final.jar" />
+  </library>
+  <library name="Maven: org.xmlunit:xmlunit-core:2.9.1">
+    <archive path="C:/Users/nares/.m2/repository/org/xmlunit/xmlunit-core/2.9.1/xmlunit-core-2.9.1.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-jdbc:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-starter-jdbc/3.1.0/spring-boot-starter-jdbc-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-params:5.9.3">
+    <archive path="C:/Users/nares/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.9.3/junit-jupiter-params-5.9.3.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:txw2:4.0.2">
+    <archive path="C:/Users/nares/.m2/repository/org/glassfish/jaxb/txw2/4.0.2/txw2-4.0.2.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy-agent:1.14.4">
+    <archive path="C:/Users/nares/.m2/repository/net/bytebuddy/byte-buddy-agent/1.14.4/byte-buddy-agent-1.14.4.jar" />
+  </library>
+  <library name="Maven: net.bytebuddy:byte-buddy:1.14.4">
+    <archive path="C:/Users/nares/.m2/repository/net/bytebuddy/byte-buddy/1.14.4/byte-buddy-1.14.4.jar" />
+  </library>
+  <library name="Maven: org.ow2.asm:asm:9.3">
+    <archive path="C:/Users/nares/.m2/repository/org/ow2/asm/asm/9.3/asm-9.3.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.9.3">
+    <archive path="C:/Users/nares/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.9.3/junit-jupiter-api-5.9.3.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-test:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-starter-test/3.1.0/spring-boot-starter-test-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-starter-data-jpa/3.1.0/spring-boot-starter-data-jpa-3.1.0.jar" />
+  </library>
+  <library name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:4.0.0">
+    <archive path="C:/Users/nares/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/4.0.0/jakarta.xml.bind-api-4.0.0.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-tomcat:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-starter-tomcat/3.1.0/spring-boot-starter-tomcat-3.1.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.15.0">
+    <archive path="C:/Users/nares/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.0/jackson-core-2.15.0.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-web:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-web/6.0.9/spring-web-6.0.9.jar" />
+  </library>
+  <library name="Maven: org.yaml:snakeyaml:1.33">
+    <archive path="C:/Users/nares/.m2/repository/org/yaml/snakeyaml/1.33/snakeyaml-1.33.jar" />
+  </library>
+  <library name="Maven: org.latencyutils:LatencyUtils:2.0.3">
+    <archive path="C:/Users/nares/.m2/repository/org/latencyutils/LatencyUtils/2.0.3/LatencyUtils-2.0.3.jar" />
+  </library>
+  <library name="Maven: jakarta.annotation:jakarta.annotation-api:2.1.1">
+    <archive path="C:/Users/nares/.m2/repository/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar" />
+  </library>
+  <library name="Maven: org.springframework.data:spring-data-commons:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/data/spring-data-commons/3.1.0/spring-data-commons-3.1.0.jar" />
+  </library>
+  <library name="Maven: com.microsoft.sqlserver:mssql-jdbc:11.2.3.jre17">
+    <archive path="C:/Users/nares/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/11.2.3.jre17/mssql-jdbc-11.2.3.jre17.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-logging:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-starter-logging/3.1.0/spring-boot-starter-logging-3.1.0.jar" />
+  </library>
+  <library name="Maven: io.micrometer:micrometer-observation:1.11.0">
+    <archive path="C:/Users/nares/.m2/repository/io/micrometer/micrometer-observation/1.11.0/micrometer-observation-1.11.0.jar" />
+  </library>
+  <library name="Maven: ch.qos.logback:logback-classic:1.4.7">
+    <archive path="C:/Users/nares/.m2/repository/ch/qos/logback/logback-classic/1.4.7/logback-classic-1.4.7.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-core:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-core/6.0.9/spring-core-6.0.9.jar" />
+  </library>
+  <library name="Maven: org.hibernate.common:hibernate-commons-annotations:6.0.6.Final">
+    <archive path="C:/Users/nares/.m2/repository/org/hibernate/common/hibernate-commons-annotations/6.0.6.Final/hibernate-commons-annotations-6.0.6.Final.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot/3.1.0/spring-boot-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.hibernate.orm:hibernate-core:6.2.2.Final">
+    <archive path="C:/Users/nares/.m2/repository/org/hibernate/orm/hibernate-core/6.2.2.Final/hibernate-core-6.2.2.Final.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.9.3">
+    <archive path="C:/Users/nares/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.9.3/junit-jupiter-engine-5.9.3.jar" />
+  </library>
+  <library name="Maven: com.sun.istack:istack-commons-runtime:4.1.1">
+    <archive path="C:/Users/nares/.m2/repository/com/sun/istack/istack-commons-runtime/4.1.1/istack-commons-runtime-4.1.1.jar" />
+  </library>
+  <library name="Maven: org.objenesis:objenesis:3.3">
+    <archive path="C:/Users/nares/.m2/repository/org/objenesis/objenesis/3.3/objenesis-3.3.jar" />
+  </library>
+  <library name="Maven: org.glassfish.jaxb:jaxb-runtime:4.0.2">
+    <archive path="C:/Users/nares/.m2/repository/org/glassfish/jaxb/jaxb-runtime/4.0.2/jaxb-runtime-4.0.2.jar" />
+  </library>
+  <library name="Maven: org.assertj:assertj-core:3.24.2">
+    <archive path="C:/Users/nares/.m2/repository/org/assertj/assertj-core/3.24.2/assertj-core-3.24.2.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/nares/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-test:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-test/3.1.0/spring-boot-test-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-aop:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-starter-aop/3.1.0/spring-boot-starter-aop-3.1.0.jar" />
+  </library>
+  <library name="Maven: jakarta.activation:jakarta.activation-api:2.1.2">
+    <archive path="C:/Users/nares/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.2/jakarta.activation-api-2.1.2.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.15.0">
+    <archive path="C:/Users/nares/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.15.0/jackson-datatype-jdk8-2.15.0.jar" />
+  </library>
+  <library name="Maven: org.apache.tomcat.embed:tomcat-embed-core:10.1.8">
+    <archive path="C:/Users/nares/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/10.1.8/tomcat-embed-core-10.1.8.jar" />
+  </library>
+  <library name="Maven: org.springframework.boot:spring-boot-starter-json:3.1.0">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/boot/spring-boot-starter-json/3.1.0/spring-boot-starter-json-3.1.0.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-webmvc:6.0.9">
+    <archive path="C:/Users/nares/.m2/repository/org/springframework/spring-webmvc/6.0.9/spring-webmvc-6.0.9.jar" />
+  </library>
+  <library name="C:\Python311\python.exe interpreter library">
+    <archive path="C:/Python311/DLLs" />
+    <archive path="C:/Python311/Lib" />
+    <archive path="C:/Python311" />
+    <archive path="C:/Python311/Lib/site-packages" />
+    <archive path="C:/Users/nares/AppData/Local/JetBrains/IntelliJIdea2023.1/python_stubs/-873143632" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/python-skeletons" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stdlib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/gdb" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/six" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/boto" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/mock" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pytz" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/toml" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/tqdm" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/first" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/fpdf2" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/ldap3" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/polib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/redis" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/regex" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/retry" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/ujson" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/bleach" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/caldav" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/docopt" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/hdbcli" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/invoke" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/passpy" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Pillow" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/psutil" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pycurl" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pynput" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pysftp" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/PyYAML" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/stripe" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/zxcvbn" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/chevron" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/passlib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyaudio" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/PyMySQL" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyvmomi" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/slumber" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/tzlocal" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/vobject" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/aiofiles" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/colorama" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/croniter" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/docutils" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/html5lib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/httplib2" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/jmespath" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Markdown" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/oauthlib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/openpyxl" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/paramiko" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/psycopg2" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyflakes" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Pygments" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/requests" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/tabulate" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/toposort" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/waitress" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/braintree" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/decorator" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/playsound" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyOpenSSL" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyRFC3339" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/ttkthemes" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/xmltodict" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/cachetools" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/commonmark" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/dateparser" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Deprecated" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Flask-Cors" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/jsonschema" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyfarmhash" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Send2Trash" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/setuptools" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/simplejson" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/SQLAlchemy" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/entrypoints" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-2020" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/JACK-Client" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/mysqlclient" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/opentracing" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pep8-naming" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-jose" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-nmap" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/stdlib-list" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/aws-xray-sdk" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/editdistance" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/parsimonious" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/whatthepatch" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/click-spinner" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/humanfriendly" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-gflags" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/beautifulsoup4" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-bugbear" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-slugify" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/singledispatch" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-builtins" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-simplify" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/mypy-extensions" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-dateutil" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Flask-SQLAlchemy" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-docstrings" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-plugin-utils" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pytest-lazy-fixture" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-rst-docstrings" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-typing-imports" />
+  </library>
+  <library name="Python 3.11 (Guvi_Python_course) interpreter library">
+    <archive path="C:/Python311/DLLs" />
+    <archive path="C:/Python311/Lib" />
+    <archive path="C:/Python311" />
+    <archive path="C:/Users/nares/AppData/Local/JetBrains/IntelliJIdea2023.2/python_stubs/608257277" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/python-skeletons" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stdlib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/gdb" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/six" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/boto" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/cffi" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/mock" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pytz" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/toml" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/tqdm" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/first" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/fpdf2" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/ldap3" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/polib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/redis" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/regex" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/retry" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/ujson" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/bleach" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/caldav" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/docopt" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/hdbcli" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/invoke" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/passpy" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Pillow" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/psutil" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pycurl" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pynput" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pysftp" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/PyYAML" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/stripe" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/zxcvbn" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/chevron" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/passlib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyaudio" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/PyMySQL" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyvmomi" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/slumber" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/tzlocal" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/vobject" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/aiofiles" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/colorama" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/croniter" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/docutils" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/html5lib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/httplib2" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/jmespath" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/keyboard" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Markdown" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/oauthlib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/openpyxl" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/paramiko" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/psycopg2" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyflakes" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Pygments" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/requests" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/tabulate" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/toposort" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/waitress" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/braintree" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/decorator" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/playsound" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/PyAutoGUI" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyOpenSSL" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyRFC3339" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/ttkthemes" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/xmltodict" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/cachetools" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/commonmark" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/dateparser" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Deprecated" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Flask-Cors" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/jsonschema" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyfarmhash" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Send2Trash" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/setuptools" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/simplejson" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/SQLAlchemy" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/entrypoints" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-2020" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/JACK-Client" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/mysqlclient" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/opentracing" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pep8-naming" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyinstaller" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-jose" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-nmap" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/stdlib-list" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/tree-sitter" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/aws-xray-sdk" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/editdistance" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/parsimonious" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/whatthepatch" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/click-spinner" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/humanfriendly" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-gflags" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/beautifulsoup4" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-bugbear" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-slugify" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/singledispatch" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-builtins" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-simplify" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/mypy-extensions" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-dateutil" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Flask-SQLAlchemy" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-docstrings" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-plugin-utils" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pytest-lazy-fixture" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-rst-docstrings" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-typing-imports" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/tree-sitter-languages" />
+  </library>
+  <library name="Python 3.11 (Practices_July15) interpreter library">
+    <archive path="C:/Python311/DLLs" />
+    <archive path="C:/Python311/Lib" />
+    <archive path="C:/Python311" />
+    <archive path="C:/Users/nares/AppData/Local/JetBrains/IntelliJIdea2023.1/python_stubs/1922317824" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/python-skeletons" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stdlib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/gdb" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/six" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/boto" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/mock" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pytz" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/toml" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/tqdm" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/first" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/fpdf2" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/ldap3" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/polib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/redis" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/regex" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/retry" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/ujson" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/bleach" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/caldav" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/docopt" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/hdbcli" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/invoke" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/passpy" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Pillow" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/psutil" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pycurl" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pynput" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pysftp" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/PyYAML" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/stripe" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/zxcvbn" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/chevron" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/passlib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyaudio" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/PyMySQL" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyvmomi" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/slumber" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/tzlocal" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/vobject" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/aiofiles" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/colorama" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/croniter" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/docutils" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/html5lib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/httplib2" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/jmespath" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Markdown" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/oauthlib" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/openpyxl" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/paramiko" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/psycopg2" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyflakes" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Pygments" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/requests" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/tabulate" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/toposort" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/waitress" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/braintree" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/decorator" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/playsound" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyOpenSSL" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyRFC3339" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/ttkthemes" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/xmltodict" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/cachetools" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/commonmark" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/dateparser" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Deprecated" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Flask-Cors" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/jsonschema" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pyfarmhash" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Send2Trash" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/setuptools" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/simplejson" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/SQLAlchemy" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/entrypoints" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-2020" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/JACK-Client" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/mysqlclient" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/opentracing" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pep8-naming" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-jose" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-nmap" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/stdlib-list" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/aws-xray-sdk" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/editdistance" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/parsimonious" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/whatthepatch" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/click-spinner" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/humanfriendly" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-gflags" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/beautifulsoup4" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-bugbear" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-slugify" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/singledispatch" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-builtins" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-simplify" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/mypy-extensions" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/python-dateutil" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/Flask-SQLAlchemy" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-docstrings" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-plugin-utils" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/pytest-lazy-fixture" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-rst-docstrings" />
+    <archive path="C:/Users/nares/AppData/Roaming/JetBrains/IntelliJIdea2023.3/plugins/python/helpers/typeshed/stubs/flake8-typing-imports" />
+  </library>
+</eclipse-userlibraries>
+
