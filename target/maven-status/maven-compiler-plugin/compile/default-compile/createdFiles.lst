@@ -1,0 +1,14 @@
+org\cognicxcontactcenter\entities\server\OutBoundCalls.class
+org\cognicxcontactcenter\configuration\LocalDataSourceConfig.class
+org\cognicxcontactcenter\controller\ContactCenterController.class
+org\cognicxcontactcenter\service\Impl\ContactCenterServiceImpl.class
+org\cognicxcontactcenter\repository\store\AgentToStoreRepository.class
+org\cognicxcontactcenter\repository\store\CustomerToStoreRepository.class
+org\cognicxcontactcenter\configuration\ServerDataSourceConfig.class
+org\cognicxcontactcenter\entities\server\AgentActivityDetails.class
+org\cognicxcontactcenter\entities\local\LocalCombinedViewDTO.class
+org\cognicxcontactcenter\repository\store\OutBoundCallstoStoreRepository.class
+org\cognicxcontactcenter\CognicxContactCenterApplication.class
+org\cognicxcontactcenter\service\ContactCenterService.class
+org\cognicxcontactcenter\entities\server\CustomerCallDetails.class
+org\cognicxcontactcenter\repository\local\LocalCombinedRepository.class

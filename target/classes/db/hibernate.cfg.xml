@@ -1,0 +1,24 @@
+ <!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+    <hibernate-configuration>
+    <session-factory>
+        <property name="connection.url">
+            jdbc:sqlserver://150.242.13.125:1433;user=sa;password=Cognicx@123;encrypt=false;
+        </property>
+        <property name="connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+        <property name="connection.username">sa</property>
+        <property name="connection.password">Cognicx@123</property>
+        <!-- Include Hibernate mapping files -->
+        <mapping resource="db/all.hbm.xml"/>
+
+        <mapping resource="dbToStore/agenttostore.hbm.xml"/>
+        <mapping resource="dbToStore/outboundcallstoStore.hbm.xml"/>
+        <mapping resource="dbToStore/customertoStore.hbm.xml"/>
+<!--        <mapping class="org.cognicxcontextcenter.entities.local.AgentActivityDetail"/>-->
+<!--        <mapping class="org.cognicxcontextcenter.entities.local.OutBoundCallsDetail"/>-->
+<!--        <mapping class="org.cognicxcontextcenter.entities.local.CustomerCallDetail"/>-->
+<!--        <mapping class="org.cognicxcontextcenter.entities.server.AgentActivityDetails"/>-->
+<!--        <mapping class="org.cognicxcontextcenter.entities.server.OutBoundCalls"/>-->
+<!--        <mapping class="org.cognicxcontextcenter.entities.server.CustomerCallDetails"/>-->
+
+    </session-factory>
+</hibernate-configuration>

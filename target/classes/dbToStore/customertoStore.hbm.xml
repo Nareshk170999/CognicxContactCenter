@@ -1,0 +1,70 @@
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="org.cognicxcontactcenter.entities.server">
+
+    <class name="CustomerCallDetails"   table="CustomerCallDetails">
+        <id name="slno" >
+            <column name="SLNO" />
+            <generator class="identity" />
+        </id>
+        <property name="tenantID"  column="TenantID"/>
+        <property name="custID" column="custID"/>
+        <property name="agentGivenName" column="AgentGivenName" />
+        <property name="agentID" column="AgentID"/>
+        <property name="agentSurName" column="AgentSurName" />
+        <property name="appAbandonDelay" column="AppAbandonDelay"/>
+        <property name="appAcceptedDelay" column="AppAcceptedDelay"/>
+        <property name="applicationID" column="ApplicationID"/>
+        <property name="applicationName" column="ApplicationName" />
+        <property name="callsConferenced" column="CallsConferenced"/>
+        <property name="callsReturnToQ" column="CallsReturnToQ"/>
+        <property name="callsReturnToQDueToTimeout" column="CallsReturnToQDueToTimeout"/>
+        <property name="ccmID" column="CcmID"/>
+        <property name="consultTime" column="ConsultTime"/>
+        <property name="contactOriginatedStamp" column="ContactOriginatedStamp" />
+        <property name="contactSubType" column="ContactSubType" />
+        <property name="contactType" column="ContactType" />
+        <property name="contactTypeName" column="ContactTypeName" />
+        <property name="disconnectSource" column="DisconnectSource" />
+        <property name="finalDisposition" column="FinalDisposition" />
+        <property name="finalDispositionInterval" column="FinalDispositionInterval"/>
+        <property name="finalDispositionStamp" column="FinalDispositionStamp" />
+        <property name="guid" column="GUID" />
+        <property name="handlingTime" column="HandlingTime"/>
+        <property name="holdTime" column="HoldTime"/>
+        <property name="idleTime" column="IdleTime"/>
+        <property name="initialDisposition" column="InitialDisposition" />
+        <property name="lastTreatmentID" column="LastTreatmentID"/>
+        <property name="lastTreatmentStamp" column="LastTreatmentStamp" />
+        <property name="lastTreatmentTime" column="LastTreatmentTime" />
+        <property name="localUserID" column="LocalUserID"/>
+        <property name="numberOfTimesOnHold" column="NumberOfTimesOnHold"/>
+        <property name="numberOfTimesRTQ" column="NumberOfTimesRTQ"/>
+        <property name="originatedInterval" column="OriginatedInterval"/>
+        <property name="originatedStamp" column="OriginatedStamp" />
+        <property name="presentingTime" column="PresentingTime"/>
+        <property name="priority" column="Priority"/>
+        <property name="sequenceID" column="SequenceID"/>
+        <property name="serviceInterval" column="ServiceInterval"/>
+        <property name="siteID" column="SiteID"/>
+        <property name="siteName" column="SiteName" />
+        <property name="skillsetID" column="SkillsetID"/>
+        <property name="skillsetName" column="SkillsetName" />
+        <property name="sksAbandonDelay" column="SksAbandonDelay"/>
+        <property name="sksAcceptedDelay" column="SksAcceptedDelay"/>
+        <property name="supervisorGivenName" column="SupervisorGivenName" />
+        <property name="supervisorID" column="SupervisorID"/>
+        <property name="supervisorSurName" column="SupervisorSurName" />
+        <property name="treatment" column="Treatment" />
+        <property name="waitTime" column="WaitTime"/>
+
+
+
+<!--        Another Table -->
+<!--        <join table="customercalldetail">-->
+<!--            <key column="agentID"></key>-->
+<!--            <property name="agentGivenName" column="agentGivenName"/>-->
+<!--            <property name="agentID" column="agentID"/>-->
+<!--        </join>-->
+    </class>
+
+</hibernate-mapping>

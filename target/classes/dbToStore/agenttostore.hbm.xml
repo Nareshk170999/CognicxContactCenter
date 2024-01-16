@@ -1,0 +1,35 @@
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="org.cognicxcontactcenter.entities.server">
+
+    <class name="AgentActivityDetails"  table= "AgentActivityDetails">
+        <id name="slno" >
+            <column name="SLNO" />
+            <generator class="identity" />
+        </id>
+        <property name="tenantID" column="TenantID"/>
+        <property name="agentID" column="AgentID"/>
+        <property name="agentGivenName" column="AgentGivenName" />
+        <property name="agentSurName" column="AgentSurName" />
+        <property name="breakTime" column="BreakTime" />
+        <property name="callsAnswered" column="CallsAnswered" />
+        <property name="callsOffered" column="CallsOffered" />
+        <property name="holdTime" column="HoldTime" />
+        <property name="loggedInTime" column="LoggedInTime" />
+        <property name="notReadyTime" column="NotReadyTime" />
+        <property name="postCallProcessingTime" column="PostCallProcessingTime" />
+        <property name="ringTime" column="RingTime" />
+        <property name="shortCallsAnswered" column="ShortCallsAnswered" />
+        <property name="site" column="Site" />
+        <property name="siteID" column="SiteID" />
+        <property name="supervisorGivenName" column="SupervisorGivenName" />
+        <property name="supervisorLogin" column="SupervisorLogin" />
+        <property name="supervisorSurName" column="SupervisorSurName" />
+        <property name="supervisorUserID" column="SupervisorUserID" />
+        <property name="talkTime" column="TalkTime" />
+        <property name="time" column="Time" />
+        <property name="timestamp" column="Timestamp" />
+        <property name="userID" column="UserID" />
+        <property name="waitingTime" column="WaitingTime" />
+    </class>
+
+</hibernate-mapping>

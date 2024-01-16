@@ -1,0 +1,93 @@
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="org.cognicxcontactcenter.dto">
+
+    <class name="org.cognicxcontactcenter.entities.local.LocalCombinedViewDTO" schema="dbo" table="AgentActivityDetails1">
+        <id name="slno" >
+            <column name="SLNO" />
+            <generator class="identity" />
+        </id>
+        <property name="tenantID" column="TenantID"/>
+        <property name="agentID" column="AgentID"/>
+        <property name="agentGivenName" column="AgentGivenName" />
+        <property name="agentSurName" column="AgentSurName" />
+        <property name="breakTime" column="BreakTime" />
+        <property name="callsAnswered" column="CallsAnswered" />
+        <property name="callsOffered" column="CallsOffered" />
+        <property name="supervisorGivenName" column="SupervisorGivenName" />
+        <property name="supervisorLogin" column="SupervisorLogin" />
+        <property name="supervisorSurName" column="SupervisorSurName" />
+        <property name="timestamp" column="Timestamp" />
+
+        <!--        another table -->
+            <join table="AgentActivityDetails2">
+            <key column="SLNO"/>
+            <property name="holdTime" column="HoldTime" />
+            <property name="loggedInTime" column="LoggedInTime" />
+            <property name="notReadyTime" column="NotReadyTime" />
+            <property name="postCallProcessingTime" column="PostCallProcessingTime" />
+            <property name="ringTime" column="RingTime" />
+            <property name="shortCallsAnswered" column="ShortCallsAnswered" />
+            <property name="site" column="Site" />
+            <property name="siteID" column="SiteID" />
+            <property name="supervisorUserID" column="SupervisorUserID" />
+            <property name="talkTime" column="TalkTime" />
+            <property name="time" column="Time" />
+            <property name="userID" column="UserID" />
+            <property name="waitingTime" column="WaitingTime" />
+        </join>
+        <!--        another table -->
+        <join table="CustomerCallDetails1">
+            <key column="SLNO"/>
+        <property name="custID" column="custID"/>
+        <property name="applicationID" column="ApplicationID"/>
+        <property name="applicationName" column="ApplicationName" />
+        <property name="ccmID" column="CcmID"/>
+        <property name="contactSubType" column="ContactSubType" />
+        <property name="contactType" column="ContactType" />
+        <property name="contactTypeName" column="ContactTypeName" />
+        <property name="guid" column="GUID" />
+        <property name="lastTreatmentID" column="LastTreatmentID"/>
+        <property name="lastTreatmentStamp" column="LastTreatmentStamp" />
+        <property name="lastTreatmentTime" column="LastTreatmentTime" />
+        <property name="localUserID" column="LocalUserID"/>
+        <property name="priority" column="Priority"/>
+        <property name="sequenceID" column="SequenceID"/>
+        <property name="siteName" column="SiteName" />
+        <property name="skillsetID" column="SkillsetID"/>
+        <property name="skillsetName" column="SkillsetName" />
+        <property name="treatment" column="Treatment" />
+        </join>
+        <!--        Another Table -->
+        <join table="CustomerCallDetails2">
+            <key column="SLNO"/>
+            <property name="appAbandonDelay" column="AppAbandonDelay"/>
+            <property name="appAcceptedDelay" column="AppAcceptedDelay"/>
+            <property name="callsConferenced" column="CallsConferenced"/>
+            <property name="callsReturnToQ" column="CallsReturnToQ"/>
+            <property name="callsReturnToQDueToTimeout" column="CallsReturnToQDueToTimeout"/>
+            <property name="consultTime" column="ConsultTime"/>
+            <property name="contactOriginatedStamp" column="ContactOriginatedStamp" />
+            <property name="disconnectSource" column="DisconnectSource" />
+            <property name="finalDisposition" column="FinalDisposition" />
+            <property name="finalDispositionInterval" column="FinalDispositionInterval"/>
+            <property name="finalDispositionStamp" column="FinalDispositionStamp" />
+            <property name="handlingTime" column="HandlingTime"/>
+            <property name="idleTime" column="IdleTime"/>
+            <property name="initialDisposition" column="InitialDisposition" />
+            <property name="numberOfTimesOnHold" column="NumberOfTimesOnHold"/>
+            <property name="numberOfTimesRTQ" column="NumberOfTimesRTQ"/>
+            <property name="originatedInterval" column="OriginatedInterval"/>
+            <property name="originatedStamp" column="OriginatedStamp" />
+            <property name="presentingTime" column="PresentingTime"/>
+            <property name="serviceInterval" column="ServiceInterval"/>
+            <property name="sksAbandonDelay" column="SksAbandonDelay"/>
+            <property name="sksAcceptedDelay" column="SksAcceptedDelay"/>
+            <property name="supervisorID" column="SupervisorID"/>
+            <property name="waitTime" column="WaitTime"/>
+        </join>
+        <join table="OutboundCalls1">
+            <key column="SLNO"></key>
+            <property name="qaScore" column="QAScore" />
+        </join>
+    </class>
+</hibernate-mapping>

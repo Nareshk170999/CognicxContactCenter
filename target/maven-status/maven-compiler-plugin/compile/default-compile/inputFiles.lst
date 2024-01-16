@@ -1,0 +1,14 @@
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\repository\local\LocalCombinedRepository.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\configuration\ServerDataSourceConfig.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\entities\server\OutBoundCalls.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\entities\local\LocalCombinedViewDTO.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\repository\store\CustomerToStoreRepository.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\service\Impl\ContactCenterServiceImpl.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\repository\store\OutBoundCallstoStoreRepository.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\repository\store\AgentToStoreRepository.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\CognicxContactCenterApplication.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\entities\server\CustomerCallDetails.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\controller\ContactCenterController.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\service\ContactCenterService.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\configuration\LocalDataSourceConfig.java
+D:\WorkSpace\All\CognicxContactCenter\src\main\java\org\cognicxcontactcenter\entities\server\AgentActivityDetails.java
