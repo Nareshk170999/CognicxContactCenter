@@ -10,64 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc3b3cb5-e8af-42ad-89cc-8153aef06e07" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CognicxContactCenter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CognicxContactCenter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/s.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/schedule.bat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/CognicxContactCenterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/CognicxContactCenterApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/configuration/LocalDataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/configuration/LocalDataSourceConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/configuration/ServerDataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/configuration/ServerDataSourceConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/controller/ContactCenterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/controller/ContactCenterController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/local/LocalCombinedViewDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/local/LocalCombinedViewDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/server/AgentActivityDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/server/AgentActivityDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/server/CustomerCallDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/server/CustomerCallDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/server/OutBoundCalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/server/OutBoundCalls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/repository/local/LocalCombinedRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/repository/local/LocalCombinedRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/repository/store/AgentToStoreRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/repository/store/AgentToStoreRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/repository/store/CustomerToStoreRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/repository/store/CustomerToStoreRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/service/ContactCenterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/service/ContactCenterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/service/Impl/ContactCenterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/service/Impl/ContactCenterServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db/all.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/all.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/dbToStore/agenttostore.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/dbToStore/agenttostore.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/dbToStore/customertoStore.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/dbToStore/customertoStore.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/dbToStore/outboundcallstoStore.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/dbToStore/outboundcallstoStore.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CognicxContactCenter-jar-with-dependencies.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CognicxContactCenter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/CognicxContactCenter.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/CognicxContactCenter.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/CognicxContactCenter.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db/all.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db/all.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db/hibernate.cfg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dbToStore/agenttostore.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbToStore/agenttostore.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dbToStore/customertoStore.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbToStore/customertoStore.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/dbToStore/outboundcallstoStore.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbToStore/outboundcallstoStore.hbm.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/CognicxContactCenterApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/configuration/LocalDataSourceConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/configuration/ServerDataSourceConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/controller/ContactCenterController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/entities/local/LocalCombinedViewDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/entities/server/AgentActivityDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/entities/server/CustomerCallDetails.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/entities/server/OutBoundCalls.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/repository/local/LocalCombinedRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/repository/store/AgentToStoreRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/repository/store/CustomerToStoreRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/repository/store/OutBoundCallstoStoreRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/service/ContactCenterService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/service/Impl/ContactCenterServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-01-12T17-32-17_665.dumpstream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.cognicxcontactcenter.CognicxContextCenterApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-org.cognicxcontactcenter.CognicxContextCenterApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/org.cognicxcontactcenter.CognicxContextCenterApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/org.cognicxcontactcenter.CognicxContextCenterApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/task.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/cognicxcontactcenter/CognicxContextCenterApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/cognicxcontactcenter/CognicxContextCenterApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/781f5cd9-3e4d-4cd9-a88d-65cde8135fb9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/781f5cd9-3e4d-4cd9-a88d-65cde8135fb9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,6 +264,8 @@
       <workItem from="1705982058989" duration="904000" />
       <workItem from="1705987711797" duration="625000" />
       <workItem from="1706002404603" duration="1135000" />
+      <workItem from="1706075324472" duration="340000" />
+      <workItem from="1706076709450" duration="670000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <option name="closed" value="true" />
