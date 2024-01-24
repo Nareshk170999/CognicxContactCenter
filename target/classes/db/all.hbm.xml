@@ -1,10 +1,10 @@
 <!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
-<hibernate-mapping package="org.cognicxcontactcenter.dto">
+<hibernate-mapping package="org.cognicxcontactcenter.entities.local">
 
-    <class name="org.cognicxcontactcenter.entities.local.LocalCombinedViewDTO" schema="dbo" table="AgentActivityDetails1">
-        <id name="slno" >
-            <column name="SLNO" />
-            <generator class="identity" />
+    <class name="LocalCombinedViewDTO" table="">
+        <id name="slno">
+            <column name="SLNO"/>
+            <generator class="identity"/>
         </id>
         <property name="tenantID" column="TenantID"/>
         <property name="agentID" column="AgentID"/>
@@ -19,9 +19,9 @@
         <property name="timestamp" column="Timestamp" />
 
         <!--        another table -->
-            <join table="AgentActivityDetails2">
+            <join table="agentsactivitydetails2">
             <key column="SLNO"/>
-            <property name="holdTime" column="HoldTime" />
+            <property name="holdTime" column="" />
             <property name="loggedInTime" column="LoggedInTime" />
             <property name="notReadyTime" column="NotReadyTime" />
             <property name="postCallProcessingTime" column="PostCallProcessingTime" />
@@ -36,7 +36,7 @@
             <property name="waitingTime" column="WaitingTime" />
         </join>
         <!--        another table -->
-        <join table="CustomerCallDetails1">
+        <join table="customercalldetails1">
             <key column="SLNO"/>
         <property name="custID" column="custID"/>
         <property name="applicationID" column="ApplicationID"/>
@@ -56,9 +56,12 @@
         <property name="skillsetID" column="SkillsetID"/>
         <property name="skillsetName" column="SkillsetName" />
         <property name="treatment" column="Treatment" />
+            <property name="supervisorID" column="SupervisorID"/>
+            <property name="initialDisposition" column="InitialDisposition" />
+            <property name="originatedStamp" column="OriginatedStamp" />
         </join>
         <!--        Another Table -->
-        <join table="CustomerCallDetails2">
+        <join table="customercalldetails2">
             <key column="SLNO"/>
             <property name="appAbandonDelay" column="AppAbandonDelay"/>
             <property name="appAcceptedDelay" column="AppAcceptedDelay"/>
@@ -73,19 +76,16 @@
             <property name="finalDispositionStamp" column="FinalDispositionStamp" />
             <property name="handlingTime" column="HandlingTime"/>
             <property name="idleTime" column="IdleTime"/>
-            <property name="initialDisposition" column="InitialDisposition" />
             <property name="numberOfTimesOnHold" column="NumberOfTimesOnHold"/>
             <property name="numberOfTimesRTQ" column="NumberOfTimesRTQ"/>
             <property name="originatedInterval" column="OriginatedInterval"/>
-            <property name="originatedStamp" column="OriginatedStamp" />
             <property name="presentingTime" column="PresentingTime"/>
             <property name="serviceInterval" column="ServiceInterval"/>
             <property name="sksAbandonDelay" column="SksAbandonDelay"/>
             <property name="sksAcceptedDelay" column="SksAcceptedDelay"/>
-            <property name="supervisorID" column="SupervisorID"/>
             <property name="waitTime" column="WaitTime"/>
         </join>
-        <join table="OutboundCalls1">
+        <join table="outboundscalls1">
             <key column="SLNO"></key>
             <property name="qaScore" column="QAScore" />
         </join>

@@ -3,7 +3,7 @@
   <component name="JpaBuddyIdeaProjectConfig" ddlActionDbType="mssql" newRepositoryParent="org.springframework.data.jpa.repository.JpaRepository">
     <option name="defaultUnitInitialized" value="true" />
     <option name="renamerInitialized" value="true" />
-    <option name="reverseEngineeringLastDbConnectionId" value="dfd56e7f-6bc1-4172-a3ca-a8a2ac37f717" />
+    <option name="reverseEngineeringLastDbConnectionId" value="b38b58e1-bc8f-4fd7-a013-f7375b72db85__CognicxContextCenter_AWS_dbo" />
     <option name="reLastEntityCreationPackage" value="src/main/java/org/cognicxcontextcenter/entities/store" />
   </component>
 </project>

@@ -1,7 +1,9 @@
 package org.cognicxcontactcenter.configuration;//package org.cognicxcontextcenter.configuration;
 
 import com.zaxxer.hikari.HikariDataSource;
-import jakarta.persistence.EntityManagerFactory;
+import org.cognicxcontactcenter.service.Impl.ContactCenterServiceImpl;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.autoconfigure.orm.jpa.JpaProperties;
@@ -17,7 +19,7 @@ import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
 import org.springframework.transaction.PlatformTransactionManager;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
-
+import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
 
 @Configuration
@@ -28,6 +30,8 @@ import javax.sql.DataSource;
         transactionManagerRef = "localTransactionManager"
 )
 public class LocalDataSourceConfig {
+
+    private final Logger logger = LoggerFactory.getLogger(LocalDataSourceConfig.class);
     private final Environment environment;
     @Autowired
     public LocalDataSourceConfig(Environment environment) {
@@ -38,10 +42,10 @@ public class LocalDataSourceConfig {
     @Bean(name = "local")
     @ConfigurationProperties(prefix = "spring.local.datasource")
     public DataSource localDataSource() {
-        HikariDataSource dataSource = new HikariDataSource();
-        dataSource.setDriverClassName(environment.getProperty("spring.local.datasource.driverClassName"));
-        dataSource.setJdbcUrl(environment.getProperty("spring.local.datasource.url"));
-        return dataSource;
+            HikariDataSource dataSource = new HikariDataSource();
+            dataSource.setDriverClassName(environment.getProperty("spring.local.datasource.driverClassName"));
+            dataSource.setJdbcUrl(environment.getProperty("spring.local.datasource.url"));
+            return dataSource;
     }
     @Primary
     @Bean(name = "localEntityManagerFactory")

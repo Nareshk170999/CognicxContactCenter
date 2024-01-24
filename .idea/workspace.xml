@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CognicxContactCenter:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc3b3cb5-e8af-42ad-89cc-8153aef06e07" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CognicxContactCenter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CognicxContactCenter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule.bat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/CognicxContactCenterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/CognicxContactCenterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/configuration/LocalDataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/configuration/LocalDataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/configuration/ServerDataSourceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/configuration/ServerDataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/controller/ContactCenterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/controller/ContactCenterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/local/LocalCombinedViewDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/local/LocalCombinedViewDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/server/AgentActivityDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/server/AgentActivityDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/server/CustomerCallDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/server/CustomerCallDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/server/OutBoundCalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/entities/server/OutBoundCalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/repository/local/LocalCombinedRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/repository/local/LocalCombinedRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/repository/store/AgentToStoreRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/repository/store/AgentToStoreRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/repository/store/CustomerToStoreRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/repository/store/CustomerToStoreRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/service/ContactCenterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/service/ContactCenterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/service/Impl/ContactCenterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/cognicxcontactcenter/service/Impl/ContactCenterServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/all.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/all.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/dbToStore/agenttostore.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/dbToStore/agenttostore.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/dbToStore/customertoStore.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/dbToStore/customertoStore.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/dbToStore/outboundcallstoStore.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/dbToStore/outboundcallstoStore.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CognicxContactCenter-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CognicxContactCenter.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/CognicxContactCenter.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CognicxContactCenter.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/CognicxContactCenter.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db/all.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db/all.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/db/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/db/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dbToStore/agenttostore.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbToStore/agenttostore.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dbToStore/customertoStore.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbToStore/customertoStore.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/dbToStore/outboundcallstoStore.hbm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/dbToStore/outboundcallstoStore.hbm.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/CognicxContactCenterApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/configuration/LocalDataSourceConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/configuration/ServerDataSourceConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/controller/ContactCenterController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/entities/local/LocalCombinedViewDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/entities/server/AgentActivityDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/entities/server/CustomerCallDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/entities/server/OutBoundCalls.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/repository/local/LocalCombinedRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/repository/store/AgentToStoreRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/repository/store/CustomerToStoreRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/repository/store/OutBoundCallstoStoreRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/service/ContactCenterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/cognicxcontactcenter/service/Impl/ContactCenterServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2024-01-12T17-32-17_665.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-org.cognicxcontactcenter.CognicxContextCenterApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-org.cognicxcontactcenter.CognicxContextCenterApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/org.cognicxcontactcenter.CognicxContextCenterApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/org.cognicxcontactcenter.CognicxContextCenterApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/task.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/cognicxcontactcenter/CognicxContextCenterApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/cognicxcontactcenter/CognicxContextCenterApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="com.haulmont.jpb.JpaRepository" />
+        <option value="Interface" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/cognicxcontextcenter/service/Impl/ContactCenterService.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="HttpClientSelectedEnvironments">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/CognicxContactCenterApplication.http" environment="dev" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\nares\.m2\repository" />
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="userSettingsFile" value="C:\Users\nares\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2aChhzUfOfsP3RaddeXvBjXM9q7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Database.Console.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;HTTP Request.CognicxContactCenterApplication | #1.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.CognicxContactCenterApplication | #10.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.CognicxContactCenterApplication | #12.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.CognicxContactCenterApplication | #13.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.CognicxContactCenterApplication | #2.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.CognicxContactCenterApplication | #3.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.CognicxContactCenterApplication | #4.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.CognicxContactCenterApplication | #5.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.CognicxContactCenterApplication | #6.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.CognicxContactCenterApplication | #7.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.CognicxContactCenterApplication | #8.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.CognicxContactCenterApplication | #9.executor&quot;: &quot;Run&quot;,
+    &quot;JPA.DatabaseSchemaImportDialog&quot;: &quot;b38b58e1-bc8f-4fd7-a013-f7375b72db85&quot;,
+    &quot;Maven.CognicxContactCenter [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CognicxContactCenter [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CognicxContactCenter [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.CognicxContactCenter [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Database detector&quot;: &quot;Database detector&quot;,
+    &quot;Notification.DoNotAsk-Database detector&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.CognicxContactCenterApplication.executor&quot;: &quot;Run&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/WorkSpace/work/Application/CognicxContactCenter&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;rest.client.default.execution.environment&quot;: &quot;dev&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;sqlserver&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect&quot;: [
+      &quot;TSQL&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\work\CognicxContactCenter\src\main\resources\dbToStore" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\work\CognicxContactCenter\src\main\resources\db" />
+      <recent name="D:\WorkSpace\work\CognicxContactCenter\src\main\resources" />
+      <recent name="D:\WorkSpace\work\CognicxContactCenter\src\main\java\org\cognicxcontextcenter\others" />
+      <recent name="D:\WorkSpace\work\CognicxContactCenter\src\main\resources\dbToStore" />
+      <recent name="D:\WorkSpace\work\CognicxContactCenter\src\main\java\org\cognicxcontextcenter\entities" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.cognicxcontextcenter" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="org.cognicxcontextcenter.entities.server" />
+      <recent name="org.cognicxcontextcenter.entities.local" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CognicxContactCenterApplication">
+    <configuration name="CognicxContactCenterApplication | #10" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/CognicxContactCenterApplication.http" index="10" requestIdentifier="#10" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="CognicxContactCenterApplication | #12" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/CognicxContactCenterApplication.http" index="12" requestIdentifier="#12" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="CognicxContactCenterApplication | #13" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/CognicxContactCenterApplication.http" index="13" requestIdentifier="#13" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="CognicxContactCenterApplication | #7" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/CognicxContactCenterApplication.http" index="7" requestIdentifier="#7" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="CognicxContactCenterApplication | #9" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/CognicxContactCenterApplication.http" index="9" requestIdentifier="#9" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="CognicxContactCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="CognicxContactCenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cognicxcontactcenter.CognicxContactCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CognicxContextCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="CognicxContactCenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.cognicxcontextcenter.CognicxContextCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.CognicxContactCenterApplication | #13" />
+        <item itemvalue="HTTP Request.CognicxContactCenterApplication | #12" />
+        <item itemvalue="HTTP Request.CognicxContactCenterApplication | #10" />
+        <item itemvalue="HTTP Request.CognicxContactCenterApplication | #9" />
+        <item itemvalue="HTTP Request.CognicxContactCenterApplication | #7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_392-corretto-1.8.0_392-f644763e9732-f719d367" />
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-f644763e9732-6064fd94" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc3b3cb5-e8af-42ad-89cc-8153aef06e07" name="Changes" comment="" />
+      <created>1703828594440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703828594440</updated>
+      <workItem from="1703828595425" duration="5280000" />
+      <workItem from="1703838091590" duration="15196000" />
+      <workItem from="1703914406619" duration="2919000" />
+      <workItem from="1704172673368" duration="20184000" />
+      <workItem from="1704208209442" duration="6305000" />
+      <workItem from="1704249681122" duration="1249000" />
+      <workItem from="1704255317821" duration="34260000" />
+      <workItem from="1704295257336" duration="5259000" />
+      <workItem from="1704336780106" duration="1000000" />
+      <workItem from="1704342855172" duration="34333000" />
+      <workItem from="1704383163736" duration="150000" />
+      <workItem from="1704383349351" duration="1436000" />
+      <workItem from="1704427429963" duration="26097000" />
+      <workItem from="1704455259013" duration="3367000" />
+      <workItem from="1704458635812" duration="6160000" />
+      <workItem from="1704519527547" duration="376000" />
+      <workItem from="1704538701555" duration="11370000" />
+      <workItem from="1704601306342" duration="26092000" />
+      <workItem from="1704665572729" duration="2509000" />
+      <workItem from="1704689263019" duration="14729000" />
+      <workItem from="1704707053966" duration="14817000" />
+      <workItem from="1704721937807" duration="253000" />
+      <workItem from="1704727070480" duration="4650000" />
+      <workItem from="1704761226984" duration="24840000" />
+      <workItem from="1704795253648" duration="13000" />
+      <workItem from="1704795276787" duration="3182000" />
+      <workItem from="1704865078739" duration="9915000" />
+      <workItem from="1704875669378" duration="77000" />
+      <workItem from="1704875751217" duration="39000" />
+      <workItem from="1704876063924" duration="8833000" />
+      <workItem from="1704887077489" duration="6045000" />
+      <workItem from="1704899370774" duration="1387000" />
+      <workItem from="1704945312912" duration="7371000" />
+      <workItem from="1704953158052" duration="23210000" />
+      <workItem from="1704982450089" duration="2265000" />
+      <workItem from="1704987886081" duration="253000" />
+      <workItem from="1704988155635" duration="25000" />
+      <workItem from="1705031506411" duration="29354000" />
+      <workItem from="1705377485931" duration="6007000" />
+      <workItem from="1705388001137" duration="836000" />
+      <workItem from="1705388874585" duration="869000" />
+      <workItem from="1705389769103" duration="11524000" />
+      <workItem from="1705466276151" duration="5266000" />
+      <workItem from="1705471976385" duration="19665000" />
+      <workItem from="1705552287122" duration="12724000" />
+      <workItem from="1705645464182" duration="1187000" />
+      <workItem from="1705668774099" duration="3370000" />
+      <workItem from="1705724028009" duration="1207000" />
+      <workItem from="1705740634184" duration="823000" />
+      <workItem from="1705808466349" duration="4543000" />
+      <workItem from="1705827248632" duration="7186000" />
+      <workItem from="1705843718460" duration="1944000" />
+      <workItem from="1705850555216" duration="3011000" />
+      <workItem from="1705884452257" duration="399000" />
+      <workItem from="1705897962704" duration="17872000" />
+      <workItem from="1705938091218" duration="34000" />
+      <workItem from="1705940321943" duration="683000" />
+      <workItem from="1705982058989" duration="904000" />
+      <workItem from="1705987711797" duration="625000" />
+      <workItem from="1706002404603" duration="1135000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <option name="closed" value="true" />
+      <created>1705381795891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705381795891</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update">
+      <option name="closed" value="true" />
+      <created>1705382385467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705382385467</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

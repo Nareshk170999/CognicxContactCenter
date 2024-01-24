@@ -2,11 +2,12 @@ package org.cognicxcontactcenter.entities.local;
 
 
 
-import jakarta.persistence.Column;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
 
+
+import javax.persistence.Column;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
 import java.sql.Timestamp;
 
 public class LocalCombinedViewDTO {
@@ -82,6 +83,13 @@ public class LocalCombinedViewDTO {
     private String idleTime;
     private Integer qaScore;
 
+    public Integer getTenantID() {
+        return tenantID;
+    }
+
+    public void setTenantID(Integer tenantID) {
+        this.tenantID = tenantID;
+    }
 
     public Integer getSlno() {
         return slno;
@@ -89,14 +97,6 @@ public class LocalCombinedViewDTO {
 
     public void setSlno(Integer slno) {
         this.slno = slno;
-    }
-
-    public Integer getTenantID() {
-        return tenantID;
-    }
-
-    public void setTenantID(Integer tenantID) {
-        this.tenantID = tenantID;
     }
 
     public Timestamp getTimestamp() {

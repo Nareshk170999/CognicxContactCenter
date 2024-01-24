@@ -1,7 +1,7 @@
 <!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
 <hibernate-mapping package="org.cognicxcontactcenter.entities.server">
 
-    <class name="AgentActivityDetails"  table= "AgentActivityDetails">
+    <class name="AgentActivityDetails"  table= "agentsactivitydetails">
         <id name="slno" >
             <column name="SLNO" />
             <generator class="identity" />

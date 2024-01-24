@@ -1,0 +1,28 @@
+[
+  {
+    "tenantID": 1,
+    "timestamp": "2024-01-01T05:00:00.000+00:00",
+    "agentID": 101,
+    "agentSurName": "Smith",
+    "agentGivenName": "John",
+    "supervisorLogin": 201,
+    "supervisorSurName": "Doe",
+    "supervisorGivenName": "Jane",
+    "breakTime": 30,
+    "callsAnswered": 50,
+    "callsOffered": 60,
+    "holdTime": 20,
+    "loggedInTime": 150,
+    "notReadyTime": 10,
+    "ringTime": 30,
+    "shortCallsAnswered": 40,
+    "talkTime": 120,
+    "waitingTime": "15",
+    "userID": "101",
+    "supervisorUserID": "201",
+    "time": "1900-03-01T18:38:50.000+00:00",
+    "siteID": "1",
+    "site": "Headquarters",
+    "postCallProcessingTime": "25"
+  }
+]

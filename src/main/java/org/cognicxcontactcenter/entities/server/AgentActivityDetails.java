@@ -3,28 +3,25 @@ package org.cognicxcontactcenter.entities.server;
 
 
 
-import jakarta.persistence.*;
-
+import javax.persistence.*;
 import java.sql.Timestamp;
-
-
 @Entity
-@Table(name = "AgentActivityDetails",schema = "dbo")
+@Table(name = "agentsactivitydetails")
 public class AgentActivityDetails {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "SLNO")
 	private Integer slno;
+
 	@Column(name = "TenantID")
 	private Integer tenantID;
-
 	@Column(name = "Timestamp")
 	private Timestamp timestamp;
 
 	@Column(name = "AgentID")
 	private Integer agentID;
 
-	@Column(name = "AgentSurName")
+		@Column(name = "AgentSurName")
 	private String agentSurName;
 
 	@Column(name = "AgentGivenName")

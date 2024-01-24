@@ -1,20 +1,18 @@
 package org.cognicxcontactcenter.entities.server;
 
 
-import jakarta.persistence.*;
-
+import javax.persistence.*;
 import java.sql.Timestamp;
 
-
-
 @Entity
-@Table(name = "OutboundCalls", schema = "dbo")
+@Table(name = "outboundscalls")
 public class OutBoundCalls {
     //    @Column(name = "TenantID",nullable = false)
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "SLNO")
     private Integer slno;
+
     private Integer tenantID;
     private Integer agentID;
     private Integer custID;
@@ -40,13 +38,6 @@ public class OutBoundCalls {
     private String numberOfTimesOnHold;
     private Integer qaScore;
 
-    public Integer getSlno() {
-        return slno;
-    }
-
-    public void setSlno(Integer slno) {
-        this.slno = slno;
-    }
 
     public Integer getTenantID() {
         return tenantID;
@@ -54,6 +45,14 @@ public class OutBoundCalls {
 
     public void setTenantID(Integer tenantID) {
         this.tenantID = tenantID;
+    }
+
+    public Integer getSlno() {
+        return slno;
+    }
+
+    public void setSlno(Integer slno) {
+        this.slno = slno;
     }
 
     public Integer getAgentID() {

@@ -4,7 +4,7 @@
     <facet type="hibernate" name="Hibernate">
       <configuration>
         <datasource-map>
-          <unit-entry name="db:hibernate.cfg.xml" value="b38b58e1-bc8f-4fd7-a013-f7375b72db85" />
+          <unit-entry name="db:hibernate.cfg.xml" value="781f5cd9-3e4d-4cd9-a88d-65cde8135fb9" />
           <unit-entry name="hibernate.cfg.xml" value="dfd56e7f-6bc1-4172-a3ca-a8a2ac37f717" />
         </datasource-map>
         <naming-strategy-map />
@@ -15,9 +15,9 @@
       <configuration>
         <setting name="validation-enabled" value="true" />
         <datasource-mapping>
-          <factory-entry name="entityManagerFactory" value="03959437-df31-46aa-b3a8-1d6cb3e519fd" />
-          <factory-entry name="localEntityManagerFactory" value="03959437-df31-46aa-b3a8-1d6cb3e519fd" />
-          <factory-entry name="serverEntityManagerFactory" value="03959437-df31-46aa-b3a8-1d6cb3e519fd" />
+          <factory-entry name="entityManagerFactory" value="69c7fd54-1e59-4d34-849e-2131599d8f79" />
+          <factory-entry name="localEntityManagerFactory" value="69c7fd54-1e59-4d34-849e-2131599d8f79" />
+          <factory-entry name="serverEntityManagerFactory" value="69c7fd54-1e59-4d34-849e-2131599d8f79" />
         </datasource-mapping>
         <naming-strategy-map />
       </configuration>

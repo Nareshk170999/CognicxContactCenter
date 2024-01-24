@@ -1,20 +1,21 @@
 package org.cognicxcontactcenter.entities.server;
 
 
-import jakarta.persistence.*;
 
+import javax.persistence.*;
 import java.sql.Timestamp;
 
 
 
 @Entity
-@Table(name = "CustomerCallDetails", schema = "dbo")
+@Table(name = "customercalldetails")
 public class CustomerCallDetails {
     //    @Column(name = "TenantID",nullable = false)
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "SLNO")
     private Integer slno;
+
     private Integer tenantID;
     private Integer custID;
     private String sequenceID;
@@ -66,13 +67,6 @@ public class CustomerCallDetails {
     private String callsReturnToQDueToTimeout;
     private String idleTime;
 
-    public Integer getSlno() {
-        return slno;
-    }
-
-    public void setSlno(Integer slno) {
-        this.slno = slno;
-    }
 
     public Integer getTenantID() {
         return tenantID;
@@ -80,6 +74,14 @@ public class CustomerCallDetails {
 
     public void setTenantID(Integer tenantID) {
         this.tenantID = tenantID;
+    }
+
+    public Integer getSlno() {
+        return slno;
+    }
+
+    public void setSlno(Integer slno) {
+        this.slno = slno;
     }
 
     public Integer getCustID() {
